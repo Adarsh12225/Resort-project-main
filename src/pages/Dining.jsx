@@ -294,32 +294,8 @@ const Dining = () => {
       </div>
     </section>
 
-      {/* ✅ Reservation Form */}
-      {/* <section className="py-12 px-8 bg-gray-100 text-center">
-        <h2 className="text-3xl font-bold mb-6">Book Your Table</h2>
-        <form className="max-w-lg mx-auto grid gap-4">
-          <input
-            type="text"
-            placeholder="Full Name"
-            className="border px-4 py-3 rounded-md"
-          />
-          <input
-            type="email"
-            placeholder="Email Address"
-            className="border px-4 py-3 rounded-md"
-          />
-          <input type="date" className="border px-4 py-3 rounded-md" />
-          <input type="time" className="border px-4 py-3 rounded-md" />
-          <input
-            type="number"
-            placeholder="No. of Guests"
-            className="border px-4 py-3 rounded-md"
-          />
-          <button className="bg-blue-900 text-white py-3 rounded-md font-semibold hover:bg-blue-800">
-            Reserve Table
-          </button>
-        </form>
-      </section> */}
+      
+      
     </div>
   );
 };
